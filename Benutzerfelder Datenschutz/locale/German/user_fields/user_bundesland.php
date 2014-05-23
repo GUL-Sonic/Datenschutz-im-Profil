@@ -19,6 +19,6 @@
  +--------------------------------------------------------------*/
 $locale['uf_blkant'] = "Bundesland";
 $locale['uf_bundesland_desc'] = "Zeigt das Bundesland eines Benutzers an";
-$locale['uf_bundesland_error']	= "Du musst Dein(en) Bundesland / Kanton angeben";
-$locale['uf_bundesland_inf'] = "Auswahl Bundesländer oder Kantone (D,A,CH)";
+$locale['uf_bundesland_error']	= "Du musst Dein Bundesland angeben";
+$locale['uf_bundesland_inf'] = "Auswahl des Bundeslandes (nur D)";
 ?>
